@@ -1,0 +1,87 @@
+.totalDiv{
+    
+    position: relative;
+    width:80%;
+    margin: 20px 10%;
+    
+}
+.headerDiv{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 15rem;
+}
+
+.bestValue{
+    color:#DD9E10;
+    padding: 3px 12px;
+    font-size: 14px;
+    display:inline;
+    border:none;
+    background: rgba(221, 158, 16, 0.1);
+    border: 0.5px solid #DD9E10;
+    border-radius: 2px;
+    text-align:start;
+}
+
+.select-products{
+    display: flex;
+    flex-direction: row;
+}
+
+.formStyle{
+    border:none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 30px;
+    gap: 10px;  
+    background: #FDFDFF;
+    border: 1px solid #B7B8BC;    
+}
+
+
+
+.fontStyle{
+
+    color:#575757;
+    width:600;
+    font-size: 24px;
+
+}
+
+.textstyle{
+    margin-top: 10px;
+}
+
+.titleStyle{
+   display: flex;
+   margin-top: 20px;
+}
+
+.modelStyle{
+   width: 35%;
+   text-align:start;
+}
+
+.ramStylediv{
+    display: flex;
+    width:30%;
+    
+}
+
+.ramStyle{
+   width: 15%;
+   text-align:start;
+}
+
+.tagStyle{
+   width: 35%;
+   text-align:start;
+   display:flex;
+}
+
+.PriceStyle{
+   width: 20%;
+   text-align:end;
+}
